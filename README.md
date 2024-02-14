@@ -21,7 +21,7 @@ To view the analysis, simply open the `US Police Shootings.jpynb` file in Jupyte
 
 ## Data Source
 
-The dataset (`shootings.csv`) was obtained from [[source](https://www.kaggle.com/datasets/ahsen1330/us-police-shootings)] and contains information about police shootings in the United States. Please refer to the source for any additional information about the data collection methodology or updates to the dataset.
+The dataset (`shootings.csv`) was obtained from [[Kaggle](https://www.kaggle.com/datasets/ahsen1330/us-police-shootings)] and contains information about police shootings in the United States. Please refer to the source for any additional information about the data collection methodology or updates to the dataset.
 
 ## Requirements
 
